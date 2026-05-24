@@ -9,9 +9,9 @@ export const business = {
   tagline: "The Crown Standard in Painting",
   shortDescription:
     "Residential and commercial painting that treats every wall, ceiling, and trim line like the final brushstroke on a masterpiece.",
-  phone: "(555) 123-4567",
-  phoneHref: "tel:+15551234567",
-  email: "hello@valleyvistapainting.com",
+  phone: "(480) 702-7824",
+  phoneHref: "tel:+14807027824",
+  email: "valleyvistapainting@gmail.com",
   serviceArea: "Serving the Valley & surrounding counties",
   address: {
     street: "123 Main Street",

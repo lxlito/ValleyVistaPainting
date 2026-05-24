@@ -7,8 +7,8 @@ export type Stat = {
 };
 
 export const stats: Stat[] = [
-  { value: 16, suffix: "+", label: "Years in business" },
-  { value: 1200, suffix: "+", label: "Projects completed" },
+  { value: 8, suffix: "+", label: "Years of experience" },
+  { value: 1000, suffix: "+", label: "Projects completed" },
   { value: 500, suffix: "+", label: "Five-star reviews" },
   { value: 100, suffix: "%", label: "Licensed & insured" },
 ];
